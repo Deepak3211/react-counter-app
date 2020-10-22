@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-counter-app/static/css/main.415ab841.chunk.css",
+    "main.js": "/react-counter-app/static/js/main.d02f4ee5.chunk.js",
+    "main.js.map": "/react-counter-app/static/js/main.d02f4ee5.chunk.js.map",
+    "runtime-main.js": "/react-counter-app/static/js/runtime-main.5f43b084.js",
+    "runtime-main.js.map": "/react-counter-app/static/js/runtime-main.5f43b084.js.map",
+    "static/js/2.d509916f.chunk.js": "/react-counter-app/static/js/2.d509916f.chunk.js",
+    "static/js/2.d509916f.chunk.js.map": "/react-counter-app/static/js/2.d509916f.chunk.js.map",
+    "index.html": "/react-counter-app/index.html",
+    "precache-manifest.021a9509a2a30c8ade93020313db1c6a.js": "/react-counter-app/precache-manifest.021a9509a2a30c8ade93020313db1c6a.js",
+    "service-worker.js": "/react-counter-app/service-worker.js",
+    "static/css/main.415ab841.chunk.css.map": "/react-counter-app/static/css/main.415ab841.chunk.css.map",
+    "static/js/2.d509916f.chunk.js.LICENSE.txt": "/react-counter-app/static/js/2.d509916f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f43b084.js",
+    "static/js/2.d509916f.chunk.js",
+    "static/css/main.415ab841.chunk.css",
+    "static/js/main.d02f4ee5.chunk.js"
+  ]
+}
