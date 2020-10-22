@@ -19,4 +19,5 @@ button{
   border-radius: 2rem;
   background-color: cadetblue;
   cursor: pointer;
+  outline: none;
 }
